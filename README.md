@@ -11,3 +11,4 @@ A collection of data science and machine learning projects showcasing complete w
 
 # 3. Time Series Forecasting
 - [Air Passenger](a.%20Overview/AirPassenger.md)
+- [Champagne Sales](a.%20Overview/ChampagneSales.md)
