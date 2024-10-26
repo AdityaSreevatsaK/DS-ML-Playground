@@ -9,8 +9,8 @@ future passenger volumes, the airline industry can better plan operations, adjus
 marketing strategies to improve service and efficiency.
 
 ## Dataset Dictionary
-Dates representing each month from 1949 to 1960.
-Pax (or "Passengers") representing the number of airline passengers recorded in that month.
+- Dates representing each month from 1949 to 1960.
+- Pax (or "Passengers") representing the number of airline passengers recorded in that month.
 
 ## Objective
 The primary goal is to forecast the number of airline passengers for upcoming months based on historical passenger data. 
