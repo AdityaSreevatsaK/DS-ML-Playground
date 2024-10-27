@@ -21,3 +21,5 @@ operational efficiency.
 ## Technology Stack
 - Language: Python
 - Machine Learning Model: Holt-Winters Model (Triple Exponential Smoothing - Multiplicative & multiplicative)
+
+## [Link to the code](../c.%20Jupyter%20Notebooks/AirPassenger.ipynb)
