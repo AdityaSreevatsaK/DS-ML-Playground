@@ -1,4 +1,4 @@
-# [Employee Attrition Prediction](../c.%20Jupyter%20Notebooks/Employee Attrition.ipynb)
+# [Employee Attrition Prediction](../c.%20Jupyter%20Notebooks/Employee%20Attrition.ipynb)
 
 ## Project Overview
 Attrition in human resources (HR) refers to the reduction of workforce through employee exits such as retirements or 
@@ -34,6 +34,6 @@ using historical employee data, enabling the company to take proactive steps in 
 The primary goal is to predict the likelihood of an employee leaving the company based on multiple factors provided in 
 the dataset, such as demographics, job role, and work experience.
 
-## Technology Stack <small>[(View code)](../c.%20Jupyter%20Notebooks/Employee Attrition.ipynb)</small>
+## Technology Stack <small>[(View code)](../c.%20Jupyter%20Notebooks/Employee%20Attrition.ipynb)</small>
 - Language: Python
 - Machine Learning Algorithm: XGBoost (Extreme Gradient Boosting).

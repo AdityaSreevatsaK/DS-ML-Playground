@@ -26,6 +26,6 @@ indicates a clear sky and 1 indicates complete cloud cover).
 - Pressure (millibars): Atmospheric pressure in millibars
 - Daily Summary: Summary of the day's weather (e.g., Partly Cloudy throughout the day, Rain in the morning)
 
-## Technology Stack [(View code)](../c.%20Jupyter%20Notebooks/TemperatureTrends.ipynb)
+## Technology Stack [(View code)](../c.%20Jupyter%20Notebooks/Temperature%20Trends.ipynb)
 - Language: Python
 - Machine Learning Model: Ridge Regression through Bayesian Optimisation.

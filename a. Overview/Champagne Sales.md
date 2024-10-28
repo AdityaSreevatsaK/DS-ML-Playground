@@ -1,4 +1,4 @@
-# [Champagne Sales Forecasting](../c.%20Jupyter%20Notebooks/Champagne Sales.ipynb)
+# [Champagne Sales Forecasting](../c.%20Jupyter%20Notebooks/Champagne%20Sales.ipynb)
 
 
 ## Project Overview
@@ -20,6 +20,6 @@ analysing trends, seasonality, and any influencing factors. Accurate sales predi
 retailers to better manage inventory, optimise production schedules, and develop targeted marketing strategies to 
 enhance sales performance.
 
-## Technology Stack <small>[(View code)](../c.%20Jupyter%20Notebooks/Champagne Sales.ipynb)</small>
+## Technology Stack <small>[(View code)](../c.%20Jupyter%20Notebooks/Champagne%20Sales.ipynb)</small>
 - Language: Python
 - Machine Learning Model: Holt-Winters Model (Triple Exponential Smoothing - Additive & additive)
