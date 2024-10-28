@@ -1,5 +1,6 @@
 # [Employee Attrition Prediction](../c.%20Jupyter%20Notebooks/Employee%20Attrition.ipynb)
 
+
 ## Project Overview
 Attrition in human resources (HR) refers to the reduction of workforce through employee exits such as retirements or 
 resignations. High attrition rates pose significant challenges for companies, incurring both the costs of hiring and 

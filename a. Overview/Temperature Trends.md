@@ -1,5 +1,6 @@
 # [Temperature Trends](../c.%20Jupyter%20Notebooks/Temperature%20Trends.ipynb)
 
+
 ## Project Overview
 The project’s objective is to predict temperature in Celsius based on various environmental and seasonal settings using 
 machine learning. A firm aims to establish a reliable model that can analyse multiple environmental factors, such as 
@@ -26,6 +27,6 @@ indicates a clear sky and 1 indicates complete cloud cover).
 - Pressure (millibars): Atmospheric pressure in millibars
 - Daily Summary: Summary of the day's weather (e.g., Partly Cloudy throughout the day, Rain in the morning)
 
-## Technology Stack [(View code)](../c.%20Jupyter%20Notebooks/Temperature%20Trends.ipynb)
+## Technology Stack <small> [(View code)](../c.%20Jupyter%20Notebooks/Temperature%20Trends.ipynb) </small> 
 - Language: Python
 - Machine Learning Model: Ridge Regression through Bayesian Optimisation.

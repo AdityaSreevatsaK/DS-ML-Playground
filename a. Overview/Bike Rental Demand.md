@@ -1,5 +1,6 @@
 # [Bike Rental Demand](../c.%20Jupyter%20Notebooks/Bike%20Rental%20Demand.ipynb)
 
+
 ## Problem Statement
 The aim of this project is to predict the daily bike rental count based on various environmental and seasonal factors. 
 A bike rental firm seeks to leverage machine learning to understand the key drivers of daily rental demand, enabling 
@@ -27,6 +28,6 @@ To develop a model that accurately predicts the daily count of bike rentals base
 settings. This model will help the firm to forecast demand more effectively, allowing for optimised fleet management 
 and improved customer satisfaction.
 
-## Technology Stack <small>[(View code)](../c.%20Jupyter%20Notebooks/Bike%20Rental%20Demand.ipynb)</small>
+## Technology Stack <small> [(View code)](../c.%20Jupyter%20Notebooks/Bike%20Rental%20Demand.ipynb) </small>
 - Language: Python
 - Machine Learning Model: Linear Regression.
