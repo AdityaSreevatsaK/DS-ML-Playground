@@ -1,4 +1,4 @@
-# [Air Passenger Forecasting](../c.%20Jupyter%20Notebooks/AirPassenger.ipynb)
+# [Air Passenger Forecasting](../c.%20Jupyter%20Notebooks/Air%20Passenger.ipynb)
 
 ## Project Overview
 Air traffic refers to the movement of passengers by airlines, which can be influenced by various factors such as 
@@ -18,8 +18,6 @@ This will be achieved by analysing trends, seasonality, and potential influencin
 indicators. Accurate predictions will enable airlines to optimise flight schedules, manage staffing levels, and enhance
 operational efficiency.
 
-## Technology Stack
+## Technology Stack <small> [(View code)](../c.%20Jupyter%20Notebooks/Air%20Passenger.ipynb)</small>
 - Language: Python
 - Machine Learning Model: Holt-Winters Model (Triple Exponential Smoothing - Multiplicative & multiplicative)
-
-## [Link to the code](../c.%20Jupyter%20Notebooks/AirPassenger.ipynb)

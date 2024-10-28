@@ -27,8 +27,6 @@ To develop a model that accurately predicts the daily count of bike rentals base
 settings. This model will help the firm to forecast demand more effectively, allowing for optimised fleet management 
 and improved customer satisfaction.
 
-## Technology Stack
+## Technology Stack <small>[(View code)](../c.%20Jupyter%20Notebooks/Bike%20Rental%20Demand.ipynb)</small>
 - Language: Python
 - Machine Learning Model: Linear Regression.
-
-## [Link to the code](../c.%20Jupyter%20Notebooks/Bike%20Rental%20Demand.ipynb)
