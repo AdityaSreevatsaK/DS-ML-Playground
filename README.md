@@ -9,11 +9,11 @@ experiment with models in this comprehensive playground for learning and innovat
 - [Temperature Trends](a.%20Overview/Temperature%20Trends.md)
 
 ## 1.2. Enhanced Regression.
-- [Bengaluru House Prices](a.%20Overview/Bengaluru%20House%20Prices.md)
 
 # 2. Classification.
 ## 2.1. Binary Classification.
 - [Employee Attrition](a.%20Overview/Employee%20Attrition.md)
+- [Graduate Admissions](a.%20Overview/Graduate%20Admissions.md)
 
 ## 2.2. Multi Class Classification.
 
