@@ -14,6 +14,8 @@ experiment with models in this comprehensive playground for learning and innovat
 ## 2.1. Binary Classification.
 - [Employee Attrition](a.%20Overview/Employee%20Attrition.md)
 - [Graduate Admissions](a.%20Overview/Graduate%20Admissions.md)
+- [Bank Churn](a.%20Overview/Bank%20Churn.md)
+- [Cardiac Risk](a.%20Overview/Cardiac%20Risk.md)
 
 ## 2.2. Multi Class Classification.
 
