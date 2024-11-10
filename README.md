@@ -16,6 +16,7 @@ experiment with models in this comprehensive playground for learning and innovat
 - [Graduate Admissions](a.%20Overview/Graduate%20Admissions.md)
 - [Bank Churn](a.%20Overview/Bank%20Churn.md)
 - [Cardiac Risk](a.%20Overview/Cardiac%20Risk.md)
+- [Skin Analysis](a.%20Overview/Skin%20Analysis.md)
 
 ## 2.2. Multi Class Classification.
 
