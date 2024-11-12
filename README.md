@@ -23,3 +23,5 @@ experiment with models in this comprehensive playground for learning and innovat
 # 3. Time Series Forecasting.
 - [Air Passenger](a.%20Overview/Air%20Passenger.md)
 - [Champagne Sales](a.%20Overview/Champagne%20Sales.md)
+
+# [4. Models Used](Models%20Used.xlsx)
