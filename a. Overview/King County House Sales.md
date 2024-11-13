@@ -35,4 +35,4 @@ stakeholders in making data-driven real estate decisions.
 
 ## Technology Stack <small>[(View Code)](../c.Jupyter%20Notebooks/King%20County%20House%20Sales.ipynb)</small>
 - Language: Python
-- Machine Learning Model: 
+- Machine Learning Model: Ordinary Least Squares (OLS) Model.
