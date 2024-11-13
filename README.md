@@ -7,6 +7,7 @@ experiment with models in this comprehensive playground for learning and innovat
 ## 1.1. Core Regression.
 - [Bike Rental Demand](a.%20Overview/Bike%20Rental%20Demand.md)
 - [Temperature Trends](a.%20Overview/Temperature%20Trends.md)
+- [King County House Sales](a.%20Overview/King%20County%20House%20Sales.md)
 
 ## 1.2. Enhanced Regression.
 
