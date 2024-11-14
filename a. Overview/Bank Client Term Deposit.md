@@ -1,4 +1,4 @@
-# [Bank Client Term Deposit](../c.%20Jupyter%20Notebooks/Bank%20Client%20Term%20Deposits.ipynb)
+# [Bank Client Term Deposit](../c.%20Jupyter%20Notebooks/Bank%20Client%20Term%20Deposit.ipynb)
 
 
 ## Project Overview
@@ -30,6 +30,6 @@ indicators, and client characteristics.
 To build a predictive model that identifies clients who are likely to subscribe to a term deposit, enabling targeted 
 marketing efforts and improving campaign efficiency.
 
-## Technology Stack <small>[(View code)](../c.%20Jupyter%20Notebooks/Bank%20Client%20Term%20Deposits.ipynb)</small>
+## Technology Stack <small>[(View code)](../c.%20Jupyter%20Notebooks/Bank%20Client%20Term%20Deposit.ipynb)</small>
 - Language: Python.
-- Machine Learning Model: Gaussian Naive Bayes.
+- Machine Learning Model: Gaussian Naïve Bayes.

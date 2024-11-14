@@ -18,6 +18,7 @@ experiment with models in this comprehensive playground for learning and innovat
 - [Bank Churn](a.%20Overview/Bank%20Churn.md)
 - [Cardiac Risk](a.%20Overview/Cardiac%20Risk.md)
 - [Skin Analysis](a.%20Overview/Skin%20Analysis.md)
+- [Bank Client Term Deposit](a.%20Overview/Bank%20Client%20Term%20Deposit.md)
 
 ## 2.2. Multi Class Classification.
 
