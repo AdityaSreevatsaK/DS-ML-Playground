@@ -5,25 +5,33 @@ experiment with models in this comprehensive playground for learning and innovat
 
 # 1. Regression.
 ## 1.1. Core Regression.
-- [Bike Rental Demand](a.%20Overview/Bike%20Rental%20Demand.md)
-- [Temperature Trends](a.%20Overview/Temperature%20Trends.md)
-- [King County House Sales](a.%20Overview/King%20County%20House%20Sales.md)
+✦ [Bike Rental Demand](a.%20Overview/Bike%20Rental%20Demand.md) <br>
+✦ [Temperature Trends](a.%20Overview/Temperature%20Trends.md) <br>
+✦ [King County House Sales](a.%20Overview/King%20County%20House%20Sales.md) <br>
 
 ## 1.2. Enhanced Regression.
 
 # 2. Classification.
 ## 2.1. Binary Classification.
-- [Employee Attrition](a.%20Overview/Employee%20Attrition.md)
-- [Graduate Admissions](a.%20Overview/Graduate%20Admissions.md)
-- [Bank Churn](a.%20Overview/Bank%20Churn.md)
-- [Cardiac Risk](a.%20Overview/Cardiac%20Risk.md)
-- [Skin Analysis](a.%20Overview/Skin%20Analysis.md)
-- [Bank Client Term Deposit](a.%20Overview/Bank%20Client%20Term%20Deposit.md)
+✦ [Employee Attrition](a.%20Overview/Employee%20Attrition.md) <br>
+✦ [Graduate Admissions](a.%20Overview/Graduate%20Admissions.md) <br>
+✦ [Bank Churn](a.%20Overview/Bank%20Churn.md) <br>
+✦ [Cardiac Risk](a.%20Overview/Cardiac%20Risk.md) <br>
+✦ [Skin Analysis](a.%20Overview/Skin%20Analysis.md) <br>
+✦ [Bank Client Term Deposit](a.%20Overview/Bank%20Client%20Term%20Deposit.md) <br>
 
 ## 2.2. Multi Class Classification.
 
-# 3. Time Series Forecasting.
-- [Air Passenger](a.%20Overview/Air%20Passenger.md)
-- [Champagne Sales](a.%20Overview/Champagne%20Sales.md)
+# Clustering
+## 3.1 Unsupervised Clustering
+✦ [National Health and Nutrition Examination Survey (NHANES)](a.%20Overview/National%20Health%20and%20Nutrition%20Examination%20Survey%20(NHANES).md) <br>
 
-# [4. Models Used](Models%20Used.xlsx)
+## Semi-Supervised Clustering
+
+## Hierarchical Clustering
+
+# 4. Time Series Forecasting.
+✦ [Air Passenger](a.%20Overview/Air%20Passenger.md) <br>
+✦ [Champagne Sales](a.%20Overview/Champagne%20Sales.md) <br>
+
+# [5. Models Used](Models%20Used.xlsx)
