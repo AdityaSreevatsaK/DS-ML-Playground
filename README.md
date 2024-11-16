@@ -22,13 +22,13 @@ experiment with models in this comprehensive playground for learning and innovat
 
 ## 2.2. Multi Class Classification.
 
-# Clustering
-## 3.1 Unsupervised Clustering
+# 3. Clustering
+## 3.1. Unsupervised Clustering
 ✦ [National Health and Nutrition Examination Survey (NHANES)](a.%20Overview/National%20Health%20and%20Nutrition%20Examination%20Survey%20(NHANES).md) <br>
 
-## Semi-Supervised Clustering
+## 3.2. Semi-Supervised Clustering
 
-## Hierarchical Clustering
+## 3.3. Hierarchical Clustering
 
 # 4. Time Series Forecasting.
 ✦ [Air Passenger](a.%20Overview/Air%20Passenger.md) <br>
