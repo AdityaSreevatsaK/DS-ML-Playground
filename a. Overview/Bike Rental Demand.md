@@ -30,4 +30,4 @@ and improved customer satisfaction.
 
 ## Technology Stack <small> [(View code)](../c.%20Jupyter%20Notebooks/Bike%20Rental%20Demand.ipynb) </small>
 - Language: Python
-- Machine Learning Model: Linear Regression.
+- Machine Learning Algorithm: Linear Regression.

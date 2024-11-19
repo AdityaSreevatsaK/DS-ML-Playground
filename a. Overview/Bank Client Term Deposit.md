@@ -32,4 +32,4 @@ marketing efforts and improving campaign efficiency.
 
 ## Technology Stack <small>[(View code)](../c.%20Jupyter%20Notebooks/Bank%20Client%20Term%20Deposit.ipynb)</small>
 - Language: Python.
-- Machine Learning Model: Gaussian Naïve Bayes.
+- Machine Learning Algorithm: Gaussian Naïve Bayes.

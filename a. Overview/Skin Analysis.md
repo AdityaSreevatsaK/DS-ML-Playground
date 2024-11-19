@@ -17,4 +17,4 @@ model that predicts patient outcomes or treatment effectiveness based on initial
 
 ## Technology Stack <small> [(View code)](../c.%20Jupyter%20Notebooks/Skin%20Analysis.ipynb) </small> 
 - Language: Python
-- Machine Learning Model: K-Nearest Neighbours (KNN).
+- Machine Learning Algorithm: K-Nearest Neighbours (KNN).

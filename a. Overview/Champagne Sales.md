@@ -22,4 +22,4 @@ enhance sales performance.
 
 ## Technology Stack <small>[(View code)](../c.%20Jupyter%20Notebooks/Champagne%20Sales.ipynb)</small>
 - Language: Python
-- Machine Learning Model: Holt-Winters Model (Triple Exponential Smoothing - Additive & additive)
+- Machine Learning Algorithm: Holt-Winters Model (Triple Exponential Smoothing - Additive & additive)

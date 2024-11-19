@@ -31,4 +31,4 @@ identify individuals at high risk for CVD, which can aid in preventative measure
 
 ## Technology Stack <small> [(View code)](../c.%20Jupyter%20Notebooks/Cardiac%20Risk.ipynb) </small>
 - Language: Python
-- Machine Learning Model: Extreme Gradient Boosting (XGBoost).
+- Machine Learning Algorithm: Extreme Gradient Boosting (XGBoost).

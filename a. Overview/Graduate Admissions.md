@@ -23,4 +23,4 @@ application criteria, providing students with an idea of their admission prospec
 
 ## Technology Stack <small>[(View code)](../c.%20Jupyter%20Notebooks/Graduate%20Admissions.ipynb)</small>
 - Language: Python
-- Machine Learning Model: Logistic Regression.
+- Machine Learning Algorithm: Logistic Regression.

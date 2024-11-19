@@ -23,4 +23,4 @@ their profile and banking behaviour.
 
 # Technology Stack <small> [(View code)](../c.%20Jupyter%20Notebooks/Bank%20Churn.ipynb)</small>
 - Language: Python
-- Machine Learning Model: K-Nearest Neighbours (KNN).
+- Machine Learning Algorithm: K-Nearest Neighbours (KNN).

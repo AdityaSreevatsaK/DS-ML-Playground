@@ -29,4 +29,4 @@ indicates a clear sky and 1 indicates complete cloud cover).
 
 ## Technology Stack <small> [(View code)](../c.%20Jupyter%20Notebooks/Temperature%20Trends.ipynb) </small> 
 - Language: Python
-- Machine Learning Model: Ridge Regression through Bayesian Optimisation.
+- Machine Learning Algorithm: Ridge Regression through Bayesian Optimisation.

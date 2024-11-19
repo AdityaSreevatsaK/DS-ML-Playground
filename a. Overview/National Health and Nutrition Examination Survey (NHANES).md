@@ -19,4 +19,4 @@ DBSCAN.
 
 ## Technology Stack <small>[(View code)](../c.%20Jupyter%20Notebooks/National%20Health%20and%20Nutrition%20Examination%20Survey%20(NHANES).ipynb)</small>
 - Language: Python.
-- Machine Learning Model: Density-Based Spatial Clustering of Applications with Noise (DBSCAN).
+- Machine Learning Algorithm: Density-Based Spatial Clustering of Applications with Noise (DBSCAN).
