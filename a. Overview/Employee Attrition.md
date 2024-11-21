@@ -37,4 +37,4 @@ the dataset, such as demographics, job role, and work experience.
 
 ## Technology Stack <small>[(View code)](../c.%20Jupyter%20Notebooks/Employee%20Attrition.ipynb)</small>
 - Language: Python
-- Machine Learning Algorithm: XGBoost (Extreme Gradient Boosting).
+- Machine Learning Algorithm: Extreme Gradient Boosting (XGBoost).
