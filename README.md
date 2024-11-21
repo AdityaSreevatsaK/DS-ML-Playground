@@ -13,6 +13,7 @@ experiment with models in this comprehensive playground for learning and innovat
 ✦ [King County House Sales](a.%20Overview/King%20County%20House%20Sales.md) <br>
 
 ## 1.2. Enhanced Regression.
+✦ [Laptop Price Analysis](a.%20Overview/Laptop%20Price%20Analysis.md) <br>
 
 # 2. Classification.
 ## 2.1. Binary Classification.
