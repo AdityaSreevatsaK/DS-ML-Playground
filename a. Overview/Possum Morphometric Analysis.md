@@ -24,7 +24,7 @@ and demographic factors.
 
 ## Objective:
 - Predict the age of possums based on morphometric measurements.
-- Predict head lensegth of possums as a continuous feature.
+- Predict head length of possums as a continuous feature.
 - Classify possum sex using the available features.
 
 ## Technology Stack <small>[(View Code)](../c.%20Jupyter%20Notebooks/Possum%20Morphometric%20Analysis.ipynb)</small>
