@@ -8,8 +8,8 @@ experiment with models in this comprehensive playground for learning and innovat
 ## 1. Regression.
 ### 1.1. Core Regression.
 ✦ [Bike Rental Demand](a.%20Overview/Bike%20Rental%20Demand.md) <br />
-✦ [Temperature Trends](a.%20Overview/Temperature%20Trends.md) <br />
 ✦ [King County House Sales](a.%20Overview/King%20County%20House%20Sales.md) <br />
+✦ [Temperature Trends](a.%20Overview/Temperature%20Trends.md) <br />
 
 ### 1.2. Enhanced Regression.
 ✦ [Laptop Price Analysis](a.%20Overview/Laptop%20Price%20Analysis.md) <br />
@@ -17,15 +17,18 @@ experiment with models in this comprehensive playground for learning and innovat
 
 ## 2. Classification.
 ### 2.1. Binary Classification.
+✦ [Bank Churn](a.%20Overview/Bank%20Churn.md) <br />
+✦ [Bank Client Term Deposit](a.%20Overview/Bank%20Client%20Term%20Deposit.md) <br />
+✦ [Breast Cancer](a.%20Overview/Breast%20Cancer.md) <br />
+✦ [Cardiac Risk](a.%20Overview/Cardiac%20Risk.md) <br />
 ✦ [Employee Attrition](a.%20Overview/Employee%20Attrition.md) <br />
 ✦ [Graduate Admissions](a.%20Overview/Graduate%20Admissions.md) <br />
-✦ [Bank Churn](a.%20Overview/Bank%20Churn.md) <br />
-✦ [Cardiac Risk](a.%20Overview/Cardiac%20Risk.md) <br />
-✦ [Skin Analysis](a.%20Overview/Skin%20Analysis.md) <br />
-✦ [Bank Client Term Deposit](a.%20Overview/Bank%20Client%20Term%20Deposit.md) <br />
 ✦ [Possum Morphometric Analysis](a.%20Overview/Possum%20Morphometric%20Analysis.md) <br />
+✦ [Skin Analysis](a.%20Overview/Skin%20Analysis.md) <br />
+
 
 ### 2.2. Multi Class Classification.
+✦ [Relay States](a.%20Overview/Relay%20States.md) <br />
 
 ## 3. Clustering.
 ### 3.1. Unsupervised Clustering.
