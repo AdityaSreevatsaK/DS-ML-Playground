@@ -44,6 +44,6 @@ providing critical information for classification.
 The objective is to build a supervised learning model for binary classification that accurately predicts the diagnosis 
 of breast cancer, supporting early detection and treatment efforts.
 
-## Technology Stack <small>[(View Code)]()</small>
+## Technology Stack <small>[(View Code)](../c.%20Jupyter%20Notebooks/Breast%20Cancer.ipynb)</small>
 - Language: Python.
 - Machine Learning Algorithm: K-Nearest Neighbours (KNN).
