@@ -19,6 +19,6 @@ This will be achieved by analysing trends, seasonality, and potential influencin
 indicators. Accurate predictions will enable airlines to optimise flight schedules, manage staffing levels, and enhance
 operational efficiency.
 
-## Technology Stack <small> [(View code)](../c.%20Jupyter%20Notebooks/Air%20Passenger.ipynb)</small>
+## Technology Stack <small>[(View code)](../c.%20Jupyter%20Notebooks/Air%20Passenger.ipynb)</small>
 - Language: Python
 - Machine Learning Algorithm: Holt-Winters Model (Triple Exponential Smoothing - Multiplicative & multiplicative)
