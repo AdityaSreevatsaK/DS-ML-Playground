@@ -28,6 +28,6 @@ To perform unsupervised clustering on process monitoring data (N11–N14) to ide
 enabling better understanding of operational behaviours and supporting data-driven optimisation of relay state 
 management.
 
-### Technology Stack <small>[(View Code)](../c.%20Jupyter%20Notebooks/Relay%20States.ipynb)</small>
+## Technology Stack <small>[(View Code)](../c.%20Jupyter%20Notebooks/Relay%20States.ipynb)</small>
 - Language: Python.
 - Machine Learning Algorithm: Agglomerative (Hierarchical) Clustering & Random Forest Classifier.  
