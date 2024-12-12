@@ -26,7 +26,6 @@ experiment with models in this comprehensive playground for learning and innovat
 ✦ [Possum Morphometric Analysis](a.%20Overview/Possum%20Morphometric%20Analysis.md) <br />
 ✦ [Skin Analysis](a.%20Overview/Skin%20Analysis.md) <br />
 
-
 ### 2.2. Multi Class Classification.
 ✦ [Relay States](a.%20Overview/Relay%20States.md) <br />
 
@@ -37,6 +36,7 @@ experiment with models in this comprehensive playground for learning and innovat
 ### 3.2. Semi-Supervised Clustering.
 
 ### 3.3. Hierarchical Clustering.
+✦ [Relay States](a.%20Overview/Relay%20States.md) <br />
 
 ## 4. Time Series Forecasting.
 ✦ [Air Passenger](a.%20Overview/Air%20Passenger.md) <br />
