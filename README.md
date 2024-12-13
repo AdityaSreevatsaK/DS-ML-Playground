@@ -23,6 +23,7 @@ experiment with models in this comprehensive playground for learning and innovat
 ✦ [Cardiac Risk](a.%20Overview/Cardiac%20Risk.md) <br />
 ✦ [Employee Attrition](a.%20Overview/Employee%20Attrition.md) <br />
 ✦ [Graduate Admissions](a.%20Overview/Graduate%20Admissions.md) <br />
+✦ [Industrial System Monitoring](a.%20Overview/Industrial%20System%20Monitoring.md) <br />
 ✦ [Possum Morphometric Analysis](a.%20Overview/Possum%20Morphometric%20Analysis.md) <br />
 ✦ [Skin Analysis](a.%20Overview/Skin%20Analysis.md) <br />
 
