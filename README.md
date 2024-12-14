@@ -31,17 +31,24 @@ experiment with models in this comprehensive playground for learning and innovat
 ✦ [Relay States](a.%20Overview/Relay%20States.md) <br />
 
 ## 3. Clustering.
-### 3.1. Unsupervised Clustering.
-✦ [National Health and Nutrition Examination Survey (NHANES)](a.%20Overview/National%20Health%20and%20Nutrition%20Examination%20Survey%20(NHANES).md) <br />
+### 3.1. Partition-Based Clustering.
 
-### 3.2. Semi-Supervised Clustering.
+### 3.2. Density-Based Clustering.
+✦ [National Health and Nutrition Examination Survey (NHANES)](a.%20Overview/National%20Health%20and%20Nutrition%20Examination%20Survey%20(NHANES).md) <br />
 
 ### 3.3. Hierarchical Clustering.
 ✦ [Relay States](a.%20Overview/Relay%20States.md) <br />
 
+### 3.4 Model-Based Clustering
+
+### 3.5 Semi-Supervised Clustering
+
 ## 4. Time Series Forecasting.
+### 4.1 Classical Forecasting
 ✦ [Air Passenger](a.%20Overview/Air%20Passenger.md) <br />
 ✦ [Champagne Sales](a.%20Overview/Champagne%20Sales.md) <br />
+
+### Traditional Machine Learning Forecasting
 ✦ [Oil Prices](a.%20Overview/Oil%20Prices.md)
 
 ## [5. Models Used](Models%20Used.xlsx)
