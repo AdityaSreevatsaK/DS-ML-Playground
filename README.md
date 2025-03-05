@@ -25,6 +25,7 @@ experiment with models in this comprehensive playground for learning and innovat
 ✦ [Employee Attrition](a.%20Overview/Employee%20Attrition.md) <br />
 ✦ [Graduate Admissions](a.%20Overview/Graduate%20Admissions.md) <br />
 ✦ [Industrial System Monitoring](a.%20Overview/Industrial%20System%20Monitoring.md) <br />
+✦ [Loan Prediction](a.%20Overview/Loan%20Prediction.md)<br />
 ✦ [Possum Morphometric Analysis](a.%20Overview/Possum%20Morphometric%20Analysis.md) <br />
 ✦ [Skin Analysis](a.%20Overview/Skin%20Analysis.md) <br />
 
