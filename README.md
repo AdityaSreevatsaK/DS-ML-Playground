@@ -19,7 +19,7 @@ experiment with models in this comprehensive playground for learning and innovat
 ### 2.1. Binary Classification.
 ✦ [Bank Churn](a.%20Overview/Bank%20Churn.md) <br />
 ✦ [Bank Client Term Deposit](a.%20Overview/Bank%20Client%20Term%20Deposit.md) <br />
-✦ [Brain Stroke](c.%20Jupyter%20Notebooks/Brain%20Stroke.ipynb)<br />
+✦ [Brain Stroke](a.%20Overview/Brain%20Stroke.md)<br />
 ✦ [Breast Cancer](a.%20Overview/Breast%20Cancer.md) <br />
 ✦ [Cardiac Risk](a.%20Overview/Cardiac%20Risk.md) <br />
 ✦ [Employee Attrition](a.%20Overview/Employee%20Attrition.md) <br />
