@@ -1,4 +1,4 @@
-# Churn Prediction
+# [Churn Prediction](../c.%20Jupyter%20Notebooks/Churn%20Prediction.ipynb)
 
 
 ## Project Overview
@@ -26,6 +26,6 @@ to leave the bank.
 Develop a machine learning model to predict customer churn, enabling banks to take proactive measures for customer 
 retention.
 
-## Technology Stack <small>[(View code)](../c.%20Jupyter%20Notebooks/Champagne%20Sales.ipynb)</small>
+## Technology Stack <small>[(View code)](../c.%20Jupyter%20Notebooks/Churn%20Prediction.ipynb)</small>
 - Language: Python
 - Machine Learning Algorithm: Random Forest Classifier.
