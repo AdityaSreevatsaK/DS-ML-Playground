@@ -30,4 +30,3 @@ and demographic factors.
 ## Technology Stack <small>[(View Code)](../c.%20Jupyter%20Notebooks/Possum%20Morphometric%20Analysis.ipynb)</small>
 - Language: Python.
 - Machine Learning Algorithm: Random Forest Regressor and Random Forest Classifier.
-
