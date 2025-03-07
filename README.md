@@ -38,13 +38,16 @@ experiment with models in this comprehensive playground for learning and innovat
 ## 3. Clustering.
 ### 3.1. Partition-Based Clustering.
 ✦ [Credit Card Clustering](a.%20Overview/Credit%20Card%20Clustering.md) <br />
+✦ [Penguin Morphological Analysis](a.%20Overview/Penguin%20Morphological%20Analysis.md) <br />
 
 ### 3.2. Density-Based Clustering.
 ✦ [National Health and Nutrition Examination Survey (NHANES)](a.%20Overview/National%20Health%20and%20Nutrition%20Examination%20Survey%20(NHANES).md) <br />
+✦ [Penguin Morphological Analysis](a.%20Overview/Penguin%20Morphological%20Analysis.md) <br />
 
 ### 3.3. Hierarchical Clustering.
 ✦ [Relay States](a.%20Overview/Relay%20States.md) <br />
 ✦ [Breast Cancer Clustering](a.%20Overview/Breast%20Cancer%20Clustering.md) <br />
+✦ [Penguin Morphological Analysis](a.%20Overview/Penguin%20Morphological%20Analysis.md) <br />
 
 ### 3.4 Model-Based Clustering
 
