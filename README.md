@@ -37,6 +37,7 @@ experiment with models in this comprehensive playground for learning and innovat
 
 ## 3. Clustering.
 ### 3.1. Partition-Based Clustering.
+✦ [Credit Card Clustering](a.%20Overview/Credit%20Card%20Clustering.md) <br />
 
 ### 3.2. Density-Based Clustering.
 ✦ [National Health and Nutrition Examination Survey (NHANES)](a.%20Overview/National%20Health%20and%20Nutrition%20Examination%20Survey%20(NHANES).md) <br />
