@@ -44,6 +44,7 @@ experiment with models in this comprehensive playground for learning and innovat
 
 ### 3.3. Hierarchical Clustering.
 ✦ [Relay States](a.%20Overview/Relay%20States.md) <br />
+✦ [Breast Cancer Clustering](a.%20Overview/Breast%20Cancer%20Clustering.md) <br />
 
 ### 3.4 Model-Based Clustering
 
