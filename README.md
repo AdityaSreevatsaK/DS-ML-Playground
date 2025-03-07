@@ -22,6 +22,7 @@ experiment with models in this comprehensive playground for learning and innovat
 ✦ [Brain Stroke](a.%20Overview/Brain%20Stroke.md)<br />
 ✦ [Breast Cancer](a.%20Overview/Breast%20Cancer.md) <br />
 ✦ [Cardiac Risk](a.%20Overview/Cardiac%20Risk.md) <br />
+✦ [Chronic Kidney Disease Classification](a.%20Overview/Chronic%20Kidney%20Disease%20Classification.md)<br />
 ✦ [Churn Prediction](a.%20Overview/Churn%20Prediction.md)<br />
 ✦ [Employee Attrition](a.%20Overview/Employee%20Attrition.md) <br />
 ✦ [Graduate Admissions](a.%20Overview/Graduate%20Admissions.md) <br />
