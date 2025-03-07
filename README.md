@@ -29,6 +29,7 @@ experiment with models in this comprehensive playground for learning and innovat
 ✦ [Loan Prediction](a.%20Overview/Loan%20Prediction.md)<br />
 ✦ [Possum Morphometric Analysis](a.%20Overview/Possum%20Morphometric%20Analysis.md) <br />
 ✦ [Skin Analysis](a.%20Overview/Skin%20Analysis.md) <br />
+✦ [Stroke Prediction](a.%20Overview/Stroke%20Prediction.md)<br />
 
 ### 2.2. Multi Class Classification.
 ✦ [Relay States](a.%20Overview/Relay%20States.md) <br />
