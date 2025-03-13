@@ -60,6 +60,7 @@ experiment with models in this comprehensive playground for learning and innovat
 ✦ [Air Passenger](a.%20Overview/Air%20Passenger.md) <br />
 ✦ [Champagne Sales](a.%20Overview/Champagne%20Sales.md) <br />
 ✦ [Retail Sales](a.%20Overview/Retail%20Sales.md)<br />
+✦ [Shampoo Sales](a.%20Overview/Shampoo%20Sales.md)<br />
 
 ### 4.2 Traditional Machine Learning Forecasting
 ✦ [Oil Prices](a.%20Overview/Oil%20Prices.md)
