@@ -1,5 +1,5 @@
 # <p align="center">DS ML Playground</p>
-## <i>Where Data Meets Machine Learning.</i></p>
+## <i>Where Data Meets Machine Learning.</i>
 
 A collection of data science and machine learning projects showcasing complete workflows, from data cleaning and 
 preprocessing to model building and evaluation. Dive into diverse datasets, explore a range of techniques, and 
@@ -59,8 +59,9 @@ experiment with models in this comprehensive playground for learning and innovat
 ### 4.1 Classical Forecasting
 ✦ [Air Passenger](a.%20Overview/Air%20Passenger.md) <br />
 ✦ [Champagne Sales](a.%20Overview/Champagne%20Sales.md) <br />
+✦ [Retail Sales](a.%20Overview/Retail%20Sales.md)<br />
 
-### Traditional Machine Learning Forecasting
+### 4.2 Traditional Machine Learning Forecasting
 ✦ [Oil Prices](a.%20Overview/Oil%20Prices.md)
 
 ## [5. Models Used](Models%20Used.xlsx)
