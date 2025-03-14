@@ -13,7 +13,7 @@ staffing, and marketing campaigns.
 - Date: Represents the time period of sales data, recorded on a daily or monthly basis. Each entry corresponds to a 
 specific date.
 - Sales: Indicates the total revenue or quantity of products sold during the corresponding time period, reflecting 
-- overall demand and market performance.
+overall demand and market performance.
 
 ## Objective
 The primary goal is to forecast future retail sales based on historical sales data. This will be achieved by identifying 
